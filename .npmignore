@@ -1,0 +1,5 @@
+.idea/
+coverage/
+.npmignore
+.travis.yml
+test.js

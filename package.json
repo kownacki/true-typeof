@@ -1,0 +1,38 @@
+{
+  "name": "true-typeof",
+  "version": "1.0.0",
+  "description": "Get correct type of value as specified in ECMAScript specification about language types",
+  "main": "index.js",
+  "keywords": [
+    "type",
+    "typeof",
+    "true",
+    "real",
+    "correct",
+    "valid",
+    "ECMAScript",
+    "specification"
+  ],
+  "scripts": {
+    "test": "mocha"
+  },
+  "engines": {
+    "node": ">= 0.10.x"
+  },
+  "homepage": "https://github.com/kownacki/true-typeof",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/kownacki/true-typeof.git"
+  },
+  "bugs": {
+    "url": "https://github.com/kownacki/true-typeof/issues"
+  },
+  "author": {
+    "name": "Michał Kownacki <michal_kownacki@o2.pl> (https://github.com/kownacki)"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^2.5.3"
+  }
+}
