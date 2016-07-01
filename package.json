@@ -1,6 +1,6 @@
 {
   "name": "true-typeof",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Get correct type of value as specified in ECMAScript specification about language types",
   "main": "index.js",
   "keywords": [
