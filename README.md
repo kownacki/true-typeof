@@ -1,3 +1,5 @@
+[![NPM](https://nodei.co/npm/true-typeof.png?compact=true)](https://npmjs.org/package/true-typeof)
+
 [![Build Status](https://travis-ci.org/kownacki/true-typeof.svg?branch=master)](https://travis-ci.org/kownacki/true-typeof)
 [![Greenkeeper badge](https://badges.greenkeeper.io/kownacki/true-typeof.svg)](https://greenkeeper.io/)
 
