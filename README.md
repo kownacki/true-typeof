@@ -1,5 +1,5 @@
-[![Build Status](https://travis-ci.org/kownacki/true-typeof.svg?branch=master)](https://travis-ci.org/kownacki/true-typeof) [![Greenkeeper badge](https://badges.greenkeeper.io/kownacki/true-typeof.svg)](https://greenkeeper.io/)
-
+[![Build Status](https://travis-ci.org/kownacki/true-typeof.svg?branch=master)](https://travis-ci.org/kownacki/true-typeof)
+[![Greenkeeper badge](https://badges.greenkeeper.io/kownacki/true-typeof.svg)](https://greenkeeper.io/)
 
 # true-typeof
 
