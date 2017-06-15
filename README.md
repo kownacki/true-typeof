@@ -2,6 +2,8 @@
 
 # true-typeof
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/kownacki/true-typeof.svg)](https://greenkeeper.io/)
+
 Get correct type of value as specified in ECMAScript specification about language types http://www.ecma-international.org/ecma-262/6.0/#sec-ecmascript-data-types-and-values
 
 ## Installation
